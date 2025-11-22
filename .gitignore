@@ -1,0 +1,29 @@
+# Environment configuration
+.env
+
+# Storage
+storage/uploads/*
+!storage/uploads/.gitkeep
+!storage/uploads/imports/.gitkeep
+!storage/uploads/brands/.gitkeep
+storage/logs/*
+!storage/logs/.gitkeep
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# Vendor directories (if using Composer)
+vendor/
+
+# System files
+Thumbs.db
