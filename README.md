@@ -81,7 +81,7 @@ SplashMarketingAI/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/SplashMarketingAI.git
+git clone https://github.com/ahmedsaadawi13/SplashMarketingAI.git
 cd SplashMarketingAI
 ```
 
